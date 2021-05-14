@@ -6,7 +6,7 @@ This notebook's purpose is to develop a customer segmentation model to define a 
 This dataset was published on kaggle, available [here](https://www.kaggle.com/arjunbhasin2013/ccdata).
 
 ### Table of Contents:
-1. [Project motivation](###Project-Motivation)
+1. [Project motivation](###project-motivation)
 2. asd
 3. asd
 4. asd
