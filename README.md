@@ -34,6 +34,7 @@ This project can divided into 2 parts:
 
 **2. Classification:**
 
+* I tried several models, for instance KNN, SVC, Decision Tree, Random Forest, XGBoost, Logistic Regression etc.
 * I used grid search for finding the best parameters for each model.
 * I plotted the confusion matrix and learning curve, to check the model performance.
 * At last, I applied a voting classifier ensemble technique, to have the most accurate result.
