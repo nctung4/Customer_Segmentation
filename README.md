@@ -5,6 +5,11 @@ The focus of this project is on cluster analysis, and classification modeling on
 ### Dataset
 This dataset was published on kaggle, available [here](https://www.kaggle.com/arjunbhasin2013/ccdata).
 
+### Resources used
+**Python Version:** 3.8.5 <br>
+**Packages:** pandas, numpy, sickit_learn, matplotlib, xgboost, seaborn, joblib <br>
+**Requirements:** ```pip install -r requirements.txt```  
+
 ### Table of Contents:
 1. [Overview](#overview)
 2. [Project Motivation](#project-motivation)
