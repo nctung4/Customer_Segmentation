@@ -7,7 +7,7 @@ This dataset was published on kaggle, available [here](https://www.kaggle.com/ar
 
 ### Resources used
 **Python Version:** 3.8.5 <br>
-**Packages:** pandas, numpy, sickit_learn, matplotlib, xgboost, seaborn, joblib <br>
+**Packages:** pandas, numpy, sickit-learn, matplotlib, xgboost, seaborn, joblib <br>
 **Requirements:** ```pip install -r requirements.txt```  
 
 ### Table of Contents:
