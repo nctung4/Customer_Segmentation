@@ -2,6 +2,12 @@
 
 The focus of this project is on cluster analysis, and classification modeling on a customer database.
 
+### Project Summary
+* Used the k-Means algorithm on the cleaned dataset for creating the clusters.
+* Decided the optimal number of clusters with the elbow method and silhouette scores.
+* Optimized several classification models with grid search. (KNN, SVC, Decision Tree, Random Forest, XGBoost, Logistic Regression etc.)
+* I applied a voting classifier ensemble technique, to have the most accurate result. 
+
 ### Dataset
 This dataset was published on kaggle, available [here](https://www.kaggle.com/arjunbhasin2013/ccdata).
 
@@ -66,7 +72,7 @@ From the elbow method we can see that the optimal number of cluster is around 5.
 
 **Classification:**
 
-The most accurate final models were the Support Vector Classifier, and the Logistic Regression. They both had approximately 98% accuracy, on the dataset.
+The most accurate final models were the Support Vector Classifier, and the Logistic Regression. They both had approximately 98% accuracy, on the dataset. In the future I will check the AUC as well, which is a far more sophisticated indicator than the accuracy.
 
 **Support Vector Classifier:**
 
